@@ -160,17 +160,13 @@ h6 {
     }
 }
 
-.btn-lg,
-.btn-group-lg > .btn {
-  padding: 10px 16px;
-  font-size: 18px;
-  line-height: 1.3333333;
-  border-radius: 6px;
-}
-
 #mailchimp {
 
 }
+    #mailchimp h2 {
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    }
+
     #mailchimp input {
         border: medium none;
         color: gray;
